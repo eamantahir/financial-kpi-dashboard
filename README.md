@@ -5,7 +5,7 @@ This project analyzes company financial performance using key metrics including 
 
 ## Visualization 
 
-![KPI CHART] (notebooks/kpi_chart.png)
+![Financial KPI Dashboard] (data/kpi_chart.png)
 
 ## Tools Used
 - Python
